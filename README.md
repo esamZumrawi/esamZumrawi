@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @esamZumrawi
+- 👀 I’m interested in mechanical design, data analysis, and innovative engineering solutions.
+- 🌱 I’m currently learning advanced data analytics techniques and enhancing my skills in SQL, Excel, Python and Power BI.
+- 💞️ I’m looking to collaborate on projects that involve data-driven decision-making and performance optimization.
+- 📫 How to reach me: You can contact me via email at (esamzumrawi09@gmail.com) or connect with me on LinkedIn.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy playing football and swimming, and I’m a big fan of basketball and football games!
